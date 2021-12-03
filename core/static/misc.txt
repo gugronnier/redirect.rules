@@ -5,6 +5,7 @@
 209.107.192.0/19-Bandcon-Seen in phish
 84.163.136.0/24-Deutsche Telekom AG-Seen in phish .. originally single .35ip .. rounded up to 24
 66.249.64.0/19-Google-Seen in phish
+77.95.65.0/24-Google-Seen in proxy log
 89.244.68.0/24-Versatel Deutschland-Seen in phish .. originally single .136ip .. rounded up to 24
 107.150.64.0/19-not sure-Seen in phish
 40.96.0.0/12-MicrosoftCorp-40.107.242.0 seen in previous phish
